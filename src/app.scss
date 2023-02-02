@@ -1,0 +1,16 @@
+@import "./scss/variables.scss";
+
+body {
+    font-family: 'Fira Sans', sans-serif !important;
+    background: #f5f7fd !important;
+}
+.spinner{
+    // height: calc(100vh - 15.25rem);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    top:50%;
+    left: 50%;
+ 
+}     
