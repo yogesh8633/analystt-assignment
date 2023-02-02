@@ -1,5 +1,5 @@
 import { Navigate, Route, Routes } from "react-router-dom";
-import "./App.scss";
+import "./app.scss";
 import Users from "./views/users";
 
 function App() {
